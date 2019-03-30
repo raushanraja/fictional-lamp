@@ -10,10 +10,6 @@ tags:
     - python
     - c#
     - csharp
-caategory: Programming
-    - go
-    - c#
-    - csharp
 category: Programming
 widgets:
     
@@ -48,6 +44,7 @@ Programs witten in any programming language can be run in Linux easily from term
 
 ## C language:
 
+<!-- more --> 
 
 #### Compiler : GCC *developed by* [GNU](https://gcc.gnu.org/) Project
 

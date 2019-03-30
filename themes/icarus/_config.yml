@@ -155,14 +155,14 @@ widgets:
         position: left
     -
         # Widget name
-        type: links
-        # Where should the widget be placed, left or right
-        position: left
-        # Links to be shown in the links widget
-        links:
-            Hexo: 'https://hexo.io'
-            PPOffice: 'https://github.com/ppoffice'
-    -
+    #     type: links
+    #     # Where should the widget be placed, left or right
+    #     position: left
+    #     # Links to be shown in the links widget
+    #     links:
+    #         Hexo: 'https://hexo.io'
+    #         PPOffice: 'https://github.com/ppoffice'
+    # -
         # Widget name
         type: category
         # Where should the widget be placed, left or right
