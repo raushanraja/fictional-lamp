@@ -1,5 +1,5 @@
 ---
-title: How to configure bluetooth on Arch Linux
+title: How to configure bluetooth in Arch Linux
 date: 2019-03-30 21:31:53
 tags:
     - Arch Linux
