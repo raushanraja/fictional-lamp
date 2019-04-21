@@ -44,7 +44,7 @@
                 <%= post.title %>
             <% } %>
         </h1>
-        <div class="content">
+        <div class="content has-text-justified">
             <%- index && post.excerpt ? post.excerpt : post.content %>
         </div>
         <% if (!index && post.tags && post.tags.length) { %>
@@ -65,7 +65,7 @@
         <div class="level is-mobile">
             <div class="level-start">
                 <div class="level-item">
-                <a class="button is-size-7 is-light" href="<%- url_for(post.path) %>#more"><%= __('article.more') %></a>
+                <a class="button is-size-5 is-info" href="<%- url_for(post.path) %>#more"><%= __('article.more') %></a>
                 </div>
             </div>
         </div>
