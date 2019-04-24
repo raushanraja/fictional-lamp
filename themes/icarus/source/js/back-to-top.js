@@ -10,7 +10,7 @@ $(document).ready(function () {
     var lastState = null;
     var state = {
         base: {
-            classname: 'card has-text-centered',
+            classname: 'card has-text-centered has-background-dark',
             left: '',
             width: 64,
             bottom: bottomMargin,
